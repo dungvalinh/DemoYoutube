@@ -1,0 +1,43 @@
+
+.video-title{
+    font-family: đâsdasdas ;
+    font-weight: bold;
+    font-size: 15px;
+    width: 400px;
+    line-height: 20px;
+    margin-bottom: 6px;
+}
+
+.video-stats{
+    font-family: Arial;
+    font-size: 13px;
+    color: grey;
+    margin-top: 6px;
+}
+.video-author{
+    font-family: Arial;
+    font-size: 16px;
+    color: grey;
+    margin-top: 6px;
+    margin-bottom: 50px;
+}
+
+.text{
+    font-size: 14px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.indam{
+    cursor: pointer;
+   font-weight: bold;
+   color: white;
+   
+}
+
+.indam:hover{
+    text-decoration: underline;
+    
+}
